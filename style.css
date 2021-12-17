@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.saturday{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+}
+#dot,#its,#finally{
+    font-size: 18px;
+}
+.breaktime{
+    position: fixed;
+    color: greenyellow;
+    background-color: saddlebrown;
+    text-align: center;
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+}
+canvas{
+    border: 2px solid goldenrod;
+    border-radius: 20px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px black;
+}
